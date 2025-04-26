@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/7maksacaod/Documents/doccumentM1/JAVA-Microservice/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2304045595.index
+2762865812.index
+751399082.index
+3089052293.index
+2474375273.index
+425842246.index

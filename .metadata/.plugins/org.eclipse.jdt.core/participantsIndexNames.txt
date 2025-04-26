@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+/Users/7maksacaod/Documents/doccumentM1/JAVA-Microservice/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2607181056.index
+/JEE_ETUDIANT/src/main/java
+/Users/7maksacaod/Documents/doccumentM1/JAVA-Microservice/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2962470494.index
+/banque/src/main/java
