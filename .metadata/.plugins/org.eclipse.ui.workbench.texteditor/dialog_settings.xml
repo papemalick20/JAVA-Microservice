@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="public void setOrderDate(Date orderDate) {"/>
+		<item key="selection" value="&lt;dependency&gt;"/>
 		<list key="findhistory">
+			<item value="&lt;dependency&gt;"/>
+			<item value="&lt;!-- https://mvnrepository.com/artifact/org.springdoc/springdoc-openapi-ui --&gt;"/>
 			<item value="public void setOrderDate(Date orderDate) {"/>
 		</list>
 	</section>

@@ -144,6 +144,7 @@
   <path value="/Users/7maksacaod/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar"/>
  </paths>
  <validation>
+  <core validator-id="jboss.cdi.core"/>
   <el>
    <linked-el length="23" name="%0" offset="1606" path="%1"/>
    <linked-el length="23" name="%2" offset="1606" path="%1"/>

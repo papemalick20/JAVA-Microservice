@@ -7,11 +7,11 @@
    <libraries>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-spring-webmvc-6.1.12.jar/meta-inf/spring-form.tld" project="order-service"/>
+      path="FileSystems/lib-spring-webmvc-6.1.12.jar/meta-inf/spring-form.tld" project="Eureka-discovery-order-service"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-spring-webmvc-6.1.12.jar/meta-inf/spring.tld" project="order-service"/>
+      path="FileSystems/lib-spring-webmvc-6.1.12.jar/meta-inf/spring.tld" project="Eureka-discovery-order-service"/>
     </library>
    </libraries>
   </path>
